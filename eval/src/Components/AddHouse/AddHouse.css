@@ -1,0 +1,26 @@
+.finishing{
+    display: flex;
+    width:20%;
+    margin: auto;
+    justify-content: space-between;
+    margin-top: 10px;
+    background-color: black;
+}
+.finishing>label{
+    font-weight: bold;
+    color: white;
+}
+.submitBtn{
+    background-color: green;
+    color: white;
+    border: none;
+    border-radius: 20px;
+    width: 20%;
+    height:20%;
+    cursor: pointer;
+}
+.addHouseContainer{
+    height:480px;
+    align-items: center;
+    background-color: lightgrey;
+}

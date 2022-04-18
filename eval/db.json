@@ -1,0 +1,314 @@
+{
+  "houses": [
+    {
+      "name": "Sonair",
+      "ownerName": "Sherwood",
+      "address": "5 Waywood Road",
+      "areaCode": "76969",
+      "rent": 4540,
+      "image": "http://dummyimage.com/167x100.png/dddddd/000000",
+      "id": 1,
+      "available": true
+    },
+    {
+      "name": "Hatity",
+      "ownerName": "Rafaela",
+      "address": "9391 Valley Edge Street",
+      "areaCode": "5",
+      "rent": 413,
+      "image": "http://dummyimage.com/123x100.png/dddddd/000000",
+      "id": 2,
+      "available": true
+    },
+    {
+      "name": "Temp",
+      "ownerName": "Valerie",
+      "address": "7789 Bluestem Pass",
+      "areaCode": "94324",
+      "rent": 3356,
+      "image": "http://dummyimage.com/110x100.png/dddddd/000000",
+      "id": 3,
+      "available": true
+    },
+    {
+      "name": "Aerified",
+      "ownerName": "Horace",
+      "address": "0 Fallview Drive",
+      "areaCode": "11",
+      "rent": 886,
+      "image": "http://dummyimage.com/160x100.png/dddddd/000000",
+      "id": 4,
+      "available": false
+    },
+    {
+      "name": "Lotstring",
+      "ownerName": "Tommi",
+      "address": "92991 Elmside Pass",
+      "areaCode": "368",
+      "rent": 4599,
+      "image": "http://dummyimage.com/106x100.png/5fa2dd/ffffff",
+      "id": 5,
+      "available": false
+    },
+    {
+      "name": "Keylex",
+      "ownerName": "Malena",
+      "address": "69295 Gerald Parkway",
+      "areaCode": "462",
+      "rent": 212,
+      "image": "http://dummyimage.com/159x100.png/5fa2dd/ffffff",
+      "id": 6,
+      "available": false
+    },
+    {
+      "name": "Flowdesk",
+      "ownerName": "Ruprecht",
+      "address": "6807 Melvin Road",
+      "areaCode": "5964",
+      "rent": 3003,
+      "image": "http://dummyimage.com/103x100.png/cc0000/ffffff",
+      "id": 7,
+      "available": false
+    },
+    {
+      "name": "Tampflex",
+      "ownerName": "Harlen",
+      "address": "8485 Claremont Hill",
+      "areaCode": "9301",
+      "rent": 122,
+      "image": "http://dummyimage.com/161x100.png/ff4444/ffffff",
+      "id": 8,
+      "available": false
+    },
+    {
+      "name": "Bytecard",
+      "ownerName": "Lacie",
+      "address": "987 La Follette Point",
+      "areaCode": "3896",
+      "rent": 2760,
+      "image": "http://dummyimage.com/228x100.png/cc0000/ffffff",
+      "id": 9,
+      "available": true
+    },
+    {
+      "name": "Asoka",
+      "ownerName": "Sofia",
+      "address": "301 Veith Junction",
+      "areaCode": "5502",
+      "rent": 3064,
+      "image": "http://dummyimage.com/185x100.png/dddddd/000000",
+      "id": 10,
+      "available": false
+    },
+    {
+      "name": "Asoka",
+      "ownerName": "Bride",
+      "address": "8796 Packers Drive",
+      "areaCode": "0781",
+      "rent": 454,
+      "image": "http://dummyimage.com/114x100.png/cc0000/ffffff",
+      "id": 11,
+      "available": false
+    },
+    {
+      "name": "Prodder",
+      "ownerName": "Bartlett",
+      "address": "96 Marcy Hill",
+      "areaCode": "98",
+      "rent": 3071,
+      "image": "http://dummyimage.com/131x100.png/5fa2dd/ffffff",
+      "id": 12,
+      "available": true
+    },
+    {
+      "name": "Treeflex",
+      "ownerName": "Alfreda",
+      "address": "389 Kropf Way",
+      "areaCode": "01070",
+      "rent": 2107,
+      "image": "http://dummyimage.com/214x100.png/dddddd/000000",
+      "id": 13,
+      "available": false
+    },
+    {
+      "name": "Wrapsafe",
+      "ownerName": "Ellie",
+      "address": "9856 Shelley Park",
+      "areaCode": "0",
+      "rent": 3588,
+      "image": "http://dummyimage.com/241x100.png/cc0000/ffffff",
+      "id": 14,
+      "available": true
+    },
+    {
+      "name": "Treeflex",
+      "ownerName": "Kendal",
+      "address": "78585 Express Park",
+      "areaCode": "50",
+      "rent": 447,
+      "image": "http://dummyimage.com/192x100.png/dddddd/000000",
+      "id": 15,
+      "available": true
+    },
+    {
+      "name": "Ronstring",
+      "ownerName": "Flem",
+      "address": "97 Johnson Alley",
+      "areaCode": "48283",
+      "rent": 1401,
+      "image": "http://dummyimage.com/112x100.png/cc0000/ffffff",
+      "id": 16,
+      "available": false
+    },
+    {
+      "name": "Tresom",
+      "ownerName": "Gunilla",
+      "address": "849 Jenifer Street",
+      "areaCode": "4",
+      "rent": 1013,
+      "image": "http://dummyimage.com/125x100.png/dddddd/000000",
+      "id": 17,
+      "available": true
+    },
+    {
+      "name": "Voyatouch",
+      "ownerName": "Val",
+      "address": "0886 Michigan Street",
+      "areaCode": "33458",
+      "rent": 2483,
+      "image": "http://dummyimage.com/172x100.png/cc0000/ffffff",
+      "id": 18,
+      "available": false
+    },
+    {
+      "name": "Wrapsafe",
+      "ownerName": "Wendye",
+      "address": "777 Alpine Parkway",
+      "areaCode": "6430",
+      "rent": 258,
+      "image": "http://dummyimage.com/106x100.png/5fa2dd/ffffff",
+      "id": 19,
+      "available": false
+    },
+    {
+      "name": "Trippledex",
+      "ownerName": "Livy",
+      "address": "6702 Anzinger Circle",
+      "areaCode": "2334",
+      "rent": 2251,
+      "image": "http://dummyimage.com/181x100.png/dddddd/000000",
+      "id": 20,
+      "available": false
+    },
+    {
+      "name": "Zathin",
+      "ownerName": "Audrie",
+      "address": "280 Merrick Plaza",
+      "areaCode": "5246",
+      "rent": 2465,
+      "image": "http://dummyimage.com/107x100.png/ff4444/ffffff",
+      "id": 21,
+      "available": true
+    },
+    {
+      "name": "Holdlamis",
+      "ownerName": "Gus",
+      "address": "80878 Tennyson Court",
+      "areaCode": "2607",
+      "rent": 3287,
+      "image": "http://dummyimage.com/239x100.png/dddddd/000000",
+      "id": 22,
+      "available": true
+    },
+    {
+      "name": "Alpha",
+      "ownerName": "Bennie",
+      "address": "6013 Bluejay Trail",
+      "areaCode": "1",
+      "rent": 2329,
+      "image": "http://dummyimage.com/181x100.png/ff4444/ffffff",
+      "id": 23,
+      "available": false
+    },
+    {
+      "name": "Solarbreeze",
+      "ownerName": "Ros",
+      "address": "04837 Service Road",
+      "areaCode": "994",
+      "rent": 4602,
+      "image": "http://dummyimage.com/125x100.png/5fa2dd/ffffff",
+      "id": 24,
+      "available": false
+    },
+    {
+      "name": "Duobam",
+      "ownerName": "Lilly",
+      "address": "46 Superior Drive",
+      "areaCode": "0930",
+      "rent": 1662,
+      "image": "http://dummyimage.com/215x100.png/ff4444/ffffff",
+      "id": 25,
+      "available": true
+    },
+    {
+      "name": "Stronghold",
+      "ownerName": "Roselle",
+      "address": "78405 Moland Way",
+      "areaCode": "64",
+      "rent": 704,
+      "image": "http://dummyimage.com/135x100.png/dddddd/000000",
+      "id": 26,
+      "available": true
+    },
+    {
+      "name": "Y-find",
+      "ownerName": "Mellie",
+      "address": "92 Arrowood Avenue",
+      "areaCode": "44",
+      "rent": 50,
+      "image": "http://dummyimage.com/211x100.png/dddddd/000000",
+      "id": 27,
+      "available": false
+    },
+    {
+      "name": "Y-Solowarm",
+      "ownerName": "Kippy",
+      "address": "08652 Starling Drive",
+      "areaCode": "5",
+      "rent": 1055,
+      "image": "http://dummyimage.com/136x100.png/cc0000/ffffff",
+      "id": 28,
+      "available": false
+    },
+    {
+      "name": "Y-Solowarm",
+      "ownerName": "Reece",
+      "address": "213 Raven Terrace",
+      "areaCode": "7009",
+      "rent": 790,
+      "image": "http://dummyimage.com/203x100.png/cc0000/ffffff",
+      "id": 29,
+      "available": false
+    },
+    {
+      "name": "Toughjoyfax",
+      "ownerName": "Phillipp",
+      "address": "75 Dottie Point",
+      "areaCode": "7",
+      "rent": 3236,
+      "image": "http://dummyimage.com/142x100.png/ff4444/ffffff",
+      "id": 30,
+      "available": true
+    },
+    {
+      "name": "AKASH P PATIL",
+      "address": "SRI VITTAL near shettibettu school maruthi nagar post parkala udupi",
+      "ownerName": "ajlee",
+      "areaCode": "576107",
+      "rent": "5000",
+      "bachelor": true,
+      "image": "https://media.istockphoto.com/photos/purple-space-stars-picture-id157639696?b=1&k=20&m=157639696&s=170667a&w=0&h=5Vh0cQzZE0tVKF8SWob83bAHfpPoc6L5YjXxjxdyOTw=",
+      "id": 31
+    }
+  ]
+}
