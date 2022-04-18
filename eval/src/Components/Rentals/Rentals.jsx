@@ -23,7 +23,7 @@ export const Rentals = () => {
     sethousedata([...housedata])
   }
   const getinput=(e)=>{
-    let newdata=housedata.filter((ele)=>ele.address[0]==e.target.value[0])
+    let newdata=housedata.filter((ele)=>ele.address.includes(e.target.value))
     if(newdata.length==0)
     {
       window.location.reload(false)
